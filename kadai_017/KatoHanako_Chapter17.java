@@ -2,8 +2,8 @@ package kadai_017;
 
 public class KatoHanako_Chapter17 extends Kato_Chapter17 {
 	// フィールド
-	public void setGivenName(String givenName) {
-		this.givenName = givenName;
+	public void setGivenName() {
+		this.givenName = "花子";
 	}
 	
 	// 抽象メソッドの処理
